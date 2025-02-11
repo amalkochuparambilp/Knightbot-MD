@@ -5,9 +5,9 @@ const path = require('path');
 async function helpCommand(sock, chatId, channelLink) {
     const helpMessage = `
 ╔═══════════════════╗
-   *🤖 ${settings.botName || 'KnightBot-MD'}*  
+   *🤖 ${settings.botName || 'AKP.AI'}*  
    Version: *${settings.version || '1.0.0'}*
-   by ${settings.botOwner || 'Mr Unique Hacker'}
+   by ${settings.botOwner || 'Mr Amal K P'}
    YT : ${global.ytch}
 ╚═══════════════════╝
 
