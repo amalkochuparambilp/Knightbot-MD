@@ -1,5 +1,5 @@
 async function githubCommand(sock, chatId) {
-    const repoInfo = `*🤖 KnightBot MD*
+    const repoInfo = `*🤖 AKP.AI*
 
 *📂 GitHub Repository:*
 https://github.com/amalkochuparambilp 
